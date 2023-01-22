@@ -1,3 +1,8 @@
 body {
  background-image: url("https://img.freepik.com/premium-vector/background-with-pastel-neutral-color-with-simple-elegant-shape-ornament_189483-153.jpg?w=1380");
 }
+
+h2 {
+  text-align: justify;
+  letter-spacing: 2px;
+}
