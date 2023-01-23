@@ -1,8 +1,9 @@
 body {
  background-image: url("https://img.freepik.com/premium-vector/background-with-pastel-neutral-color-with-simple-elegant-shape-ornament_189483-153.jpg?w=1380");
+ font-family: 'Brush Script MT', cursive;
 }
 
-h2 {
+h3 {
   font-family: Copperplate, Papyrus, Fantasy;
   text-align: justify;
   letter-spacing: 5px;
@@ -11,4 +12,8 @@ h2 {
 h1 {
  text-transform: uppercase;
  color: cadetblue;
+}
+
+h2 {
+ font-family: 'Courier New', monospace;
 }
