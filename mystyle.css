@@ -18,6 +18,10 @@ h2 {
  font-family: Copperplate, Papyrus, Fantasy;
 }
 
-li {
+ul {
    font-family: copperplate , papyrus, fantasy;
+}
+
+ol {
+ font-family: 'Courier New', monospace;
 }
